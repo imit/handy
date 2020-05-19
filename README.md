@@ -1,3 +1,3 @@
 #handy
 
-> quick css classes
+quick css classes
